@@ -1,2 +1,2 @@
 # oruamapi
-An API of app company Oruam Technology
+An API of company Oruam Technology
